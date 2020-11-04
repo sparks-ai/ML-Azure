@@ -1,12 +1,12 @@
 # Optimizing an ML Pipeline in Azure
 
-##### Table of Contents  
+## Table of Contents  
 [Overview](#overview)  
 [Summary](#summary)
-[Scikitlearn_Pipeline](#scikitlearn_pipeline) 
-[AutoML](#automl) 
-[Pipeline_comparison](#pipeline_comparison) 
-[Future_work](#future_work) 
+[Scikitlearn_Pipeline](#scikitlearn_pipeline) <br> 
+[AutoML](#automl) <br>
+[Pipeline_comparison](#pipeline_comparison) <br> 
+[Future_work](#future_work) <br> 
 [Proof_of_cluster_clean_up](#proof_of_cluster_clean_up) 
 <br>   
 
