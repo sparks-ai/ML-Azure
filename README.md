@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 [Overview](#overview)  
-[Summary](#summary)
+[Summary](#summary) <br>
 [Scikitlearn_Pipeline](#scikitlearn_pipeline) <br> 
 [AutoML](#automl) <br>
 [Pipeline_comparison](#pipeline_comparison) <br> 
