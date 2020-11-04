@@ -15,7 +15,9 @@
 ## Overview
 This project is part of the Udacity Azure ML Nanodegree.
 In this project, we build and optimize an Azure ML pipeline using the Python SDK and a provided Scikit-learn model.
-This model is then compared to an Azure AutoML run.
+This model is then compared to an Azure AutoML run. The architectural diagram gives more information (see figure below).
+<br>
+![alt text](https://github.com/sparks-ai/ML-Azure/blob/master/Architecture_diagram_Udacity.jpg?raw=true)
 <br>
 
 <a name="summary"/>
